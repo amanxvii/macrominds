@@ -28,7 +28,7 @@ export default function RecentMeals() {
         fat={25}
       />
       <MealItem 
-      name='Besan Bhaat'
+      name='Egg Scrambled Sandwhich'
       calories={332}
       protein={20}
       carbs={55}
