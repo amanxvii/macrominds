@@ -7,7 +7,7 @@ import RecentMeals from "@/components/RecentMeals";
 
   return (
     <ScrollView style = {globalStyles.container}> 
-      <Text style = {globalStyles.title} >MacroMinds</Text>
+      <Text style = {globalStyles.title} >MacroMinds.</Text>
       <HomeHeader />
        <MacroGrid />
        <RecentMeals />
